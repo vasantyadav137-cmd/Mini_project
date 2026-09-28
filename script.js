@@ -11,7 +11,7 @@ var products = [
     star: "Ranveer Singh Style",
     price: 2499,
     category: "men",
-    img: "images/ranveer1.jpg"   // ADD IMAGE: Ranveer Singh in jacket
+    img: "ranveer1.jpg"   // ADD IMAGE: Ranveer Singh in jacket
   },
   {
     id: 2,
